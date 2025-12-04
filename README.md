@@ -1,0 +1,1 @@
+Projeto criado para desenvolver um album online do batismo da minha afilhada (E meus conhecimentos de Next.js) :D.
