@@ -6,7 +6,7 @@ export const batismoPhotos = [
   // toUrl('1WOd8gylMMqnM56oWTObDtFOGlLmhYAHq'), //3
   // toUrl('16GClZxV3TprCP3AMf6LLFaUxD68sbD1h'), //4
   // toUrl('1_PAYLK0NkEjaOd-ha3dto8LA2hlAj3lE'), //5
-  toUrl('1DjgbTB1au-oTweBjuHKVDY9zVAzLuFpG'), //6
+  toUrl('1IzYnyh_BTGQWOgF4mQ1mmIrorF4gBTPb'), //6
   // toUrl('1DjgbTB1au-oTweBjuHKVDY9zVAzLuFpG'), //7
   toUrl('1bHROSNrHGhrfzz5RT1vQynTDTdM69nOW'), //8
   // toUrl('16w3PlbG5nvxQOgKmlKLzayWuiSL0Ob7j'), //9
